@@ -1,0 +1,4 @@
+{
+  "MONGO_HOST": "mongodb+srv://maddy2308:q0QQCCmec+@cluster0.curd4wl.mongodb.net/?retryWrites=true&w=majority",
+  "PAGINATION_LIMIT": 100
+}
