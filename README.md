@@ -6,9 +6,9 @@ Presented here is a simple, outdated, CRUD application that serves the front end
 
 For this exercise, you are required to:
 
-- [ ] Add the ability to mark a particular notification as read based on `_id`
-- [ ] Retrieve an individual notification based on `_id`
-- [ ] Refactor this application to modernize the server architecture, using your current best practices and knowledge. For this you are not limited in scope of what to improve, do what you feel is best.
+- [x] Add the ability to mark a particular notification as read based on `_id`
+- [x] Retrieve an individual notification based on `_id`
+- [x] Refactor this application to modernize the server architecture, using your current best practices and knowledge. For this you are not limited in scope of what to improve, do what you feel is best.
 
 This exercise is to take at most 3 hour of development time.
 
