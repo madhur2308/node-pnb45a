@@ -31,3 +31,13 @@ notifications in the database `npm run seed`
 ### Questions
 
 Any questions can be sent to Andrew at `awright@tenthousandcoffees.com` or Cherifta at `cherifta@tenthousandcoffees.com`
+
+### GIT Repo
+
+Please find the git repo https://github.com/madhur2308/node-pnb45a that has the most recent code
+
+### Changes
+
+- Added the new endpoints
+- Updated the functionality
+- Also created 2 set of endpoints to handle data when it is too much (getUnreadNotifications and getAllNotifictaions that allows us to paginate over the results)
