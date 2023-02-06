@@ -41,4 +41,4 @@ Please find the git repo https://github.com/madhur2308/node-pnb45a that has the 
 - Added new endpoints
 - Updated the functionality of an existing endpoint (count of unread notifications)
 - Also created 2 set of endpoints to handle data when it is too much (getUnreadNotifications and getAllNotifictaions that allows us to paginate over the results)
-- migrated teh code base from using JS to TS
+- migrated the code base from using JS to TS
